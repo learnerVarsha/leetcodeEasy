@@ -1,5 +1,4 @@
 //Author: Varsha Rajawat
-//Date: 5 July 2024
 //Source: https://leetcode.com/problems/roman-to-integer/
 
 import java.util.HashMap;

@@ -1,5 +1,4 @@
 #Author: Varsha Rajawat
-#Date: 5 July 2024
 #Source: https://leetcode.com/problems/two-sum/description/?source=submission-ac
 from typing import List
 

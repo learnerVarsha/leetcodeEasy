@@ -1,5 +1,4 @@
 //Author: Varsha Rajawat
-//Date: 5 July 2024
 //Source: https://leetcode.com/problems/palindrome-number/
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {
