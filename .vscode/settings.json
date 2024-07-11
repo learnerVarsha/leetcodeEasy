@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "9.PalindromeNumber",
+        "1929.ConcatenationOfArray",
         "13.RomanToInteger",
         "1.TwoSum",
-        "1929.ConcatenationOfArray"
+        "1920.BuildArrayFromPermutation"
     ]
 }
